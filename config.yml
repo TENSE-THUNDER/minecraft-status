@@ -1,11 +1,11 @@
-name: "Hypixel"
+name: "Zephor"
 lang: "pl"
-token: "" # Discord bot token
+token: "MTQ0MTk4MzA2NTA4MDQ2MzQzMw.GTlFni.S7w6qqBkELM3hZ5SzEs2xYY_M0HOA1Vwnz5B0w" # Discord bot token
 interval: 10000 # ms
-server: "hypixel.net"
+server: "play.zephor.live"
 
 message:
   enabled: true
-  channel: "" # Channel id
+  channel: "1372953845738639401" # Channel id
 status:
   enabled: true
